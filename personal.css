@@ -1,0 +1,56 @@
+.particulars {
+  width: 60%;
+  min-width: 600px;
+  margin: auto;
+  text-align: center;
+}
+
+.age p, .vocation p {
+  display: inline-block;
+  margin-right: 50px;
+  font-size: 40px;
+}
+
+.age select, .vocation select, .category select {
+  font-size: 34px;
+  padding: 10px;
+}
+
+.container {
+  text-align: center;
+  margin-top: 100px;
+  min-width: 600px;
+}
+
+.category {
+  display: inline-block;
+  border: 5px solid black;
+  width: 25%;
+  min-width: 400px;
+  margin: 1%;
+}
+
+.category p, output {
+  display: inline-block;
+  margin-right: 20px;
+  font-size: 20px;
+}
+
+h1 {
+  color: blueviolet;
+}
+
+.results {
+  text-align: center;
+  font-size: 50px;
+  margin: 70px auto;
+}
+
+.results a {
+  font-weight: bold;
+}
+
+#totalPoints, #award {
+  font-weight: normal;
+}
+
